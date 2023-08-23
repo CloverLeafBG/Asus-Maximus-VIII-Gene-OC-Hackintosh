@@ -24,7 +24,7 @@ OpenCore based EFI for Asus Maximus VIII Gene
 
 
 - Motherboard:  Asus Maximus VIII Gene 
-- CPU: Intel i7 6700K@4.7Ghz 1.325V
+- CPU: Intel i7 6700K @ 4.7Ghz 1.325V
 - Socket: LGA1151
 - RAM: 2x8GB DDR4 @ 2400 Mhz
 - Audio: Realtek ALC1150
