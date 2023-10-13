@@ -16,9 +16,9 @@ OpenCore based EFI for Asus Maximus VIII Gene
 ## Tested macOS Version
 
 
-- macOS Monterey 12.6.8
-- macOS Ventura 13.5.1
-- macOS Sonoma Beta
+- macOS Monterey
+- macOS Ventura
+- macOS Sonoma
 
 
 ## System Configuration
