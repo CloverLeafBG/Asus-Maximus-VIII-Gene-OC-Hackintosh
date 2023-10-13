@@ -30,7 +30,7 @@ OpenCore based EFI for Asus Maximus VIII Gene
 - RAM: 2x8GB DDR4 @ 2400 Mhz
 - Audio: Realtek ALC1150
 - GPU: Sapphire RX580 4GB
-- SSD: Crucial MX500 500GB
+- SSD: WD SN770 1TB
 - LAN: Intel I219-V
 
 
